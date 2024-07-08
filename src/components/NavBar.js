@@ -1,7 +1,3 @@
-
-
-
-
 import React, { useState } from 'react';
 import './NavbarStyle.css';
 
@@ -39,3 +35,7 @@ const NavBar = () => {
 };
 
 export default NavBar;
+
+
+
+
